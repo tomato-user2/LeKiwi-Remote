@@ -1,6 +1,6 @@
 # LeKiwi Remote
 
-`LeKiwi Remote` is a standalone Android app for driving the LeKiwi mobile base from a phone.
+`LeKiwi Remote` is a standalone Android app for driving the [LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi) mobile base from a phone.
 
 The Android app is self-contained, but the Raspberry Pi
 on the robot still needs a compatible `lerobot` checkout because the robot-side host process comes from `lerobot`. Please note that I worked with a lerobot checkout from 10/25. So I can't guarantee it will work with a newer version.
